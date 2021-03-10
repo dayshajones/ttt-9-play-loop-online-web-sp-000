@@ -36,6 +36,7 @@ def turn(board)
 end
 
 def play(board)
+  counter = 1
   loop do
     turn
     break
